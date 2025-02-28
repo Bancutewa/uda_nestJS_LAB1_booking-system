@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Tran Ngoc Tien",
+    "email": "tran.ngoc@gmail.com",
+    "age": 30,
+    "address": "123 Main St, City, State, 12345",
+    "status": true
+  },
+  {
+    "name": "John Doe",
+    "email": "john.doe@gmail.com",
+    "age": 25,
+    "address": "456 Elm St, City, State, 67890",
+    "status": false
+  },
+  {
+    "name": "Jane Smith",
+    "email": "jane.smith@gmail.com",
+    "age": 35,
+    "address": "789 Oak St, City, State, 34567",
+    "status": true
+  }
+]
